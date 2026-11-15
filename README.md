@@ -39,7 +39,7 @@ This repo includes a GitHub Actions workflow at `.github/workflows/pages.yml` th
 For this repository, the published URL will be:
 
 ```text
-https://ruannnebornman.github.io/veldmuis-website/
+https://bornmanr.github.io/veldmuis-website/
 ```
 
 ### One-time GitHub setup

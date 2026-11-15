@@ -8,12 +8,12 @@ with signed package workflows,
 shaped around the African veld at sunset.`,
     primaryCta: {
       label: 'Download ISO',
-      href: 'https://github.com/ruannnebornman/veldmuis/releases',
+      href: 'https://github.com/bornmanr/veldmuis/releases',
       external: true,
     },
     secondaryCta: {
       label: 'View Build',
-      href: 'https://github.com/ruannnebornman/veldmuis',
+      href: 'https://github.com/bornmanr/veldmuis',
       external: true,
     },
     tryNowCta: {
@@ -40,7 +40,7 @@ shaped around the African veld at sunset.`,
     links: [
       {
         label: 'View source',
-        href: 'https://github.com/ruannnebornman/veldmuis',
+        href: 'https://github.com/bornmanr/veldmuis',
         external: true,
       },
       {
@@ -96,7 +96,7 @@ shaped around the African veld at sunset.`,
     text: 'Official Veldmuis links live on this website and GitHub only.',
     link: {
       label: 'Official GitHub',
-      href: 'https://github.com/ruannnebornman/veldmuis',
+      href: 'https://github.com/bornmanr/veldmuis',
     },
   },
   footer: {
@@ -105,7 +105,7 @@ shaped around the African veld at sunset.`,
     links: [
       {
         label: 'Official GitHub',
-        href: 'https://github.com/ruannnebornman/veldmuis',
+        href: 'https://github.com/bornmanr/veldmuis',
         external: true,
       },
       {
