@@ -1,7 +1,7 @@
 import { Component, computed, signal } from '@angular/core';
 import { siteContent } from './data/site-content';
 
-const GITHUB_RELEASES_URL = 'https://api.github.com/repos/ruannnebornman/veldmuis/releases';
+const GITHUB_RELEASES_URL = 'https://api.github.com/repos/bornmanr/veldmuis/releases';
 const DOWNLOAD_BASE_URL =
   globalThis.location?.port === '4200'
     ? '/iso'
